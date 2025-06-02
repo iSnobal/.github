@@ -1,16 +1,18 @@
 # Community iSnobal Maintainers Agreement
-March 13, 2024
+June 2, 2025
 
 ## Spirit of Agreement
 The spirit of the iSnobal Community maintainers organization described here is to foster and maintain an iSnobal development community that will use, advance, and disseminate iSnobal for scientific research and operational purposes, and to centralize the knowledge and software that underpins iSnobal specifically, and snow modeling generally. We aim to maintain an open source code base that serves our respective needs, as well as the needs of the broader scientific and water resources communities.
 
-## Maintainers Community
-The organizations and individuals listed below are the iSnobal Community Model maintainers, and will each have administrative access to and control of the iSnobal Community Model repositories.
+## Maintainers Committee
+The organizations and individuals listed below are the iSnobal Community Model committee, and will each have administrative access to and control of the iSnobal Community Model repositories.
 
-    M3 Works: Micah Johnson, Micah Sandusky, Mark Robertson, Kehan Yang
+    M3 Works: Micah Johnson, Micah Sandusky, Mark Robertson
     USDA-ARS: Andrew Hedrick
     Boise State University: Joachim Meyer
     University of Utah: McKenzie Skiles
+
+Additional individuals will be added by the above committee wihtout needing to change this agreement and are controlled via the GitHub organization.
 
 ## Software Repositories
 Location: https://github.com/iSnobal
