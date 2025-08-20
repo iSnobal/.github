@@ -14,9 +14,11 @@ This work is supported thanks to the following grants
 
 ### Current
 * United States Bureau of Reclamation; Grant # R24AC00060-00
+* United States Bureau of Reclamation; Grant # R24AC00061 to the University of Utah
 * United States Bureau of Reclamation, Snow Water Supply Forecasting (SWSF) Program; Grant # R24AC00027-00
+* Cooperative Institute for Research to Operations in Hydrology (CIROH) with funding under award NA22NWS4320003 to the University of Utah from the NOAA Cooperative Institute Program
 
 ### Past
-* NASA ESD Applied Sciences - Water Resources; Grant # 80NSSC19K1243
-* NOAA via the Cooperative Institute for Research on Hydrology (CIROH); Grant # NA22NWS4320003
+* NASA ESD Applied Sciences - Water Resources; Grant # 80NSSC19K1243 to the University of Utah
+  
  
