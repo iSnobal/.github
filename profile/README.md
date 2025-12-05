@@ -20,6 +20,11 @@ This work is supported thanks to the following grants
 * NASA Terrestrial Hydrology program; Task number # 80NM0018F0618 to the Jet Propulsion Laboratory
 * Cooperative Institute for Research to Operations in Hydrology (CIROH) with funding under award NA22NWS4320003 from the NOAA Cooperative Institute Program to the University of Utah and the University of Vermont.
 
+![Image of US Bureau of Reclamation logo.](https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/2067104fa160a525cf29203355e7b221 "USBR logo")
+![Image of NASA insignia, the blue meatball.](https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg "NASA logo")
+
+
+
 ### Past
 * NASA ESD Applied Sciences - Water Resources; Grant # 80NSSC19K1243 to the University of Utah
   
