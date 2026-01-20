@@ -19,6 +19,7 @@ This work is supported thanks to the following grants
 * NASA Terrestrial Hydrology program; Grant # 80NSSC25K7453 to the University of Utah
 * NASA Terrestrial Hydrology program; Task number # 80NM0018F0618 to the Jet Propulsion Laboratory
 * Cooperative Institute for Research to Operations in Hydrology (CIROH) with funding under award NA22NWS4320003 from the NOAA Cooperative Institute Program to the University of Utah and the University of Vermont.
+* Funding to the Desert Research Institute [^1]
 
 ![Image of US Bureau of Reclamation logo.](https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/2067104fa160a525cf29203355e7b221 "USBR logo")
 ![Image of NASA insignia, the blue meatball.](https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg "NASA logo")
@@ -28,3 +29,4 @@ This work is supported thanks to the following grants
 ### Past
 * NASA ESD Applied Sciences - Water Resources; Grant # 80NSSC19K1243 to the University of Utah
   
+[^1]: This material is based upon work supported by the Broad Agency Announcement Program and Cold Regions Research and Engineering Laboratory (ERDCCRREL) under Contract No. W913E523C0002 and The Regents of the University of California. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Broad Agency Announcement Program and the U.S. Army Engineer Research and Development Center (ERDC).
