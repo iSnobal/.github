@@ -22,7 +22,8 @@ You are a specialized agent for maintaining documentation quality in the iSnobal
 ### Docstring Format
 ```python
 def function_name(param1: type1, param2: type2) -> return_type:
-    """Short description on one line.
+    """
+    Short description on one line.
 
     Longer description if needed, explaining the function's purpose,
     behavior, and any important considerations.
@@ -70,7 +71,8 @@ def function_name(param1: type1, param2: type2) -> return_type:
 - Explain documentation standards when relevant
 - Prioritize public API over internal documentation
 
-## What NOT to Focus On
+## Avoid
 - Over-documenting obvious code
 - Documenting implementation details
 - Excessive inline comments
+

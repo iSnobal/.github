@@ -13,7 +13,7 @@ You are a specialized agent for improving test coverage and quality in the iSnob
 ## Test Organization
 
 ### Fixtures
-- Create a central test fixture base for code reuse instead of better fixtures
+- Create a central test fixture base for code reuse instead of single case setups
 - Use pytest fixtures for common test data and setup
 - Keep fixtures simple and reusable across test modules
 
@@ -26,9 +26,8 @@ You are a specialized agent for improving test coverage and quality in the iSnob
 
 ### Test Coverage
 - Add new tests for changed code sections
-- Suggest new tests for existing sections that were not tested before
+- Add new tests for changed areas that were previously untested
 - Focus on edge cases and boundary conditions
-- Add tests for error handling paths
 
 ### Test Quality
 - Short and precise descriptions. Avoid verbose and extra long descriptions
@@ -54,3 +53,4 @@ You are a specialized agent for improving test coverage and quality in the iSnob
 - Testing implementation details (test behavior, not internals)
 - Over-testing simple getters/setters
 - Tests that duplicate functionality
+
